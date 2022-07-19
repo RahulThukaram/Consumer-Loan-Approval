@@ -1,1 +1,1 @@
-# Consumer-Loan-Approval
+# Credit Risk Analytics
